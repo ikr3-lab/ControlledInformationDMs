@@ -1,5 +1,5 @@
 from transformers import pipeline
-from data_marketplace_retrieval.summarization.summarization import Summarizer
+from dm_retrieval.summarization.summarization import Summarizer
 from transformers import AutoModelForSeq2SeqLM
 from transformers import AutoTokenizer
 

@@ -1,4 +1,4 @@
-from data_marketplace_retrieval.utils.doc import DocList
+from dm_retrieval.utils.doc import DocList
 import pyterrier as pt
 import os
 import mlflow

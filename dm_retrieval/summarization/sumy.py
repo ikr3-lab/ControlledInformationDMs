@@ -1,4 +1,4 @@
-from data_marketplace_retrieval.summarization.summarization import Summarizer
+from dm_retrieval.summarization.summarization import Summarizer
 import sumy
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer

@@ -1,4 +1,4 @@
-from data_marketplace_retrieval.summarization.summarization import Summarizer
+from dm_retrieval.summarization.summarization import Summarizer
 import nltk
 from summarizer.sbert import SBertSummarizer
 

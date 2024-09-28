@@ -1,6 +1,6 @@
 import pandas as pd
 from typing import Union
-from data_marketplace_retrieval.processing import sanitization
+from dm_retrieval.processing import sanitization
 from transformers import pipeline
 import re
 
