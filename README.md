@@ -1,6 +1,8 @@
 # DM Retrieval
 
-DM Retrieval is a Python project for dealing with controlled information release and retrieval in Data Marketplaces. This is the repository linked to the article: Cassani, L., Livraga, G., Viviani, M. (2024). Assessing Document Sanitization for Controlled Information Release and Retrieval in Data Marketplaces. In: Goeuriot, L., et al. Experimental IR Meets Multilinguality, Multimodality, and Interaction. CLEF 2024. Lecture Notes in Computer Science, vol 14958. Springer, Cham. https://doi.org/10.1007/978-3-031-71736-9_4
+DM Retrieval is a Python project for dealing with controlled information release and retrieval in Data Marketplaces. 
+
+This is the repository linked to the article: Cassani, L., Livraga, G., Viviani, M. (2024). Assessing Document Sanitization for Controlled Information Release and Retrieval in Data Marketplaces. In: Goeuriot, L., et al. Experimental IR Meets Multilinguality, Multimodality, and Interaction. CLEF 2024. Lecture Notes in Computer Science, vol 14958. Springer, Cham. https://doi.org/10.1007/978-3-031-71736-9_4
 
 ## Installation
 
